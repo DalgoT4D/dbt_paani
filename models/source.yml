@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: source_paani
+    schema: staging
+    tables:
+      - name: Majha_Gat_Majhe_Kutumb
+        identifier: Majha_Gat_Majhe_Kutumb
+        description: xx
+      - name: gat_details
+        identifier: gat_details
+        description: xx
+      - name: marks
+        identifier: marks
+        description: xx      
+      - name: sop_table
+        identifier: sop_table
+        description: xx
+      - name: irjik_table
+        identifier: irjik_table
+        description: xx
